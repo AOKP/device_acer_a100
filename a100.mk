@@ -57,3 +57,4 @@ $(call inherit-product-if-exists, vendor/acer/a100/a100-vendor.mk)
 
 PRODUCT_DEVICE := a100
 PRODUCT_MODEL  := A100
+PRODUCT_NAME   := a100
